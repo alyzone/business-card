@@ -103,12 +103,12 @@ ul#address li{
 	padding-left: 20px;
 }
 ul#contact{
-	position:absolute;
-	width:100%;
 	height: 50%;
-	z-index:10;
-	top:10px;
-	right:90px;
+	position: absolute;
+	right: -63%;
+	top: 10px;
+	width: 100%;
+	z-index: 10;
 }
 ul#address{
 	position:absolute;
