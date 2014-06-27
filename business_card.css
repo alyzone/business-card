@@ -78,24 +78,24 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 }
 li#phone {
 	line-height: 20px;
-	background: url(../img/contact.png) no-repeat left center;
+	background: url(https://raw.githubusercontent.com/zeera/business-card/master/contact.png) no-repeat left center;
 	line-height: 20px;  /*Might have to play with this value a bit */
 	padding-left: 19px;
 }
 li#web {
 	line-height: 20px;
-	background: url(../img/world.png) no-repeat left center;
+	background: url(https://raw.githubusercontent.com/zeera/business-card/master/world.png) no-repeat left center;
 	line-height: 20px;  /*Might have to play with this value a bit */
 	padding-left: 19px;
 }
 li#email {
 	line-height: 20px;
-	background: url(../img/email.png) no-repeat left center;
+	background: url(https://raw.githubusercontent.com/zeera/business-card/master/email.png) no-repeat left center;
 	line-height: 20px;  /*Might have to play with this value a bit */
 	padding-left: 19px;
 }
 li#add {
-	background: url(../img/home.png) no-repeat left center;
+	background: url(https://raw.githubusercontent.com/zeera/business-card/master/home.png) no-repeat left center;
 	line-height: 20px;  /*Might have to play with this value a bit */
 	padding-left: 19px;
 }
