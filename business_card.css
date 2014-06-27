@@ -5,7 +5,12 @@ body {
 	font-family:"Century Gothic",Comic Sans MS, cursive;
 }
 div#logo {
-	background:url(logo.svg);
+	background-image:url(https://raw.githubusercontent.com/zeera/business-card/master/logo.svg);
+	background-repeat:no-repeat;
+	height: 50%;
+	margin: 10px;
+	width: 45%;
+	opacity:0.4;
 }
 div#bc_container {
 	margin: 0 auto;
@@ -58,15 +63,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#499bea', end
 	height: 50%;
 	top:40%;
 	
-background: rgb(255,255,255); /* Old browsers */
-background: -moz-linear-gradient(top,  rgba(255,255,255,1) 0%, rgba(243,243,243,1) 50%, rgba(237,237,237,1) 51%, rgba(255,255,255,1) 100%); /* FF3.6+ */
-background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,1)), color-stop(50%,rgba(243,243,243,1)), color-stop(51%,rgba(237,237,237,1)), color-stop(100%,rgba(255,255,255,1))); /* Chrome,Safari4+ */
-background: -webkit-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(243,243,243,1) 50%,rgba(237,237,237,1) 51%,rgba(255,255,255,1) 100%); /* Chrome10+,Safari5.1+ */
-background: -o-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(243,243,243,1) 50%,rgba(237,237,237,1) 51%,rgba(255,255,255,1) 100%); /* Opera 11.10+ */
-background: -ms-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(243,243,243,1) 50%,rgba(237,237,237,1) 51%,rgba(255,255,255,1) 100%); /* IE10+ */
-background: linear-gradient(to bottom,  rgba(255,255,255,1) 0%,rgba(243,243,243,1) 50%,rgba(237,237,237,1) 51%,rgba(255,255,255,1) 100%); /* W3C */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
-
+	background-image:url(https://raw.githubusercontent.com/zeera/business-card/master/background3.png);
 }
 #info ul{
 	list-style:none;
